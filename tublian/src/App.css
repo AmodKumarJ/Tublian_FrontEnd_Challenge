@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+}
+@import url(https://db.onlinewebfonts.com/c/4ff6f056f9052b835e33438a16ed81d4?family=Recepts+NF+W01+Regular);
+.logo{
+    font-family: "Recepts NF W01 Regular";
+}
